@@ -1,0 +1,11 @@
+{
+  "main": "bundle.js",
+  "devDependencies": {
+    "css-loader": "^0.21.0",
+    "html-webpack-plugin": "^2.28.0",
+    "style-loader": "^0.13.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1",
+    "webpack-md5-hash": "^0.0.5"
+  }
+}
