@@ -1,0 +1,1 @@
+webpackJsonp([2],[function(n,c,o){(function(n){"use strict";o(1),o(3),n("body").append("这是js动态生成的内容：这是about页面！")}).call(c,o(2))},,,function(n,c){}]);

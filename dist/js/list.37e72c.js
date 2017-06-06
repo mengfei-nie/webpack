@@ -1,0 +1,1 @@
+webpackJsonp([3],[function(n,s,o){(function(n){"use strict";o(1),o(!function(){var n=new Error('Cannot find module "../less/list.scss"');throw n.code="MODULE_NOT_FOUND",n}()),n("body").append("这是js动态生成的内容，这是list页面！")}).call(s,o(2))}]);

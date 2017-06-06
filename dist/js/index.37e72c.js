@@ -1,0 +1,1 @@
+webpackJsonp([1],[function(n,c,i){(function(n){"use strict";i(1),i(4),n("body").append("这是js动态生成的内容：这是index页面！")}).call(c,i(2))},,,,function(n,c){}]);
